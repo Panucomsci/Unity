@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Game\Scripts\MathsAndAnswerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\ModeMenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\ShareScreenScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\CheckButtonPress.cs" Line="50" Column="13" />
+      <File FileName="Assets\Game\Scripts\TimerBarController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\MainMenuController.cs" Line="76" Column="17" />
+      <File FileName="Assets\Game\Scripts\GUIManager.cs" Line="81" Column="95" />
+      <File FileName="Assets\Game\Scripts\GameManager.cs" Line="63" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
